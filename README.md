@@ -4,6 +4,8 @@ Desc
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 Screenshots
+![Screenshot_20240417_151509](https://github.com/GPastore92/Calculadora-IMC/assets/166765407/08036308-c371-49e1-a554-d64f86e5e6a1)
+![Screenshot_20240417_151601](https://github.com/GPastore92/Calculadora-IMC/assets/166765407/56ec20a5-bd0e-4313-96fb-55d47f0fbfb8)
 
 ## Tecnologias
 Techs
