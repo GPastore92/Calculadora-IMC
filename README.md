@@ -1,5 +1,5 @@
 # Calculadora IMC
-Desc
+Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
@@ -8,7 +8,22 @@ Screenshots
 ![Screenshot_20240417_151601](https://github.com/GPastore92/Calculadora-IMC/assets/166765407/56ec20a5-bd0e-4313-96fb-55d47f0fbfb8)
 
 ## Tecnologias
-Techs
+* Kotlin
+* Activity para host de telas
+* ViewGroup
+   * RelativeLayout
+   * LinearLayout
+*Components de UI
+   * TextView
+   * EditText
+   * Button
+* Toast para display de mensagens
+* Intent Explicita para recuperar components de UI
+* String resource para concatenação de textos
+
+## Author
+Gabriel Pastore (LinkedIn - https://www.linkedin.com/in/gabriel-pastore/)
+
 
 
 ## License
